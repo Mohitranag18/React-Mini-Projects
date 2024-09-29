@@ -1,2 +1,2 @@
-# JS-Mini-Projects
-A collection of basic JavaScript projects created while learning fundamental concepts. Each project is designed to help beginners solidify their understanding of JavaScript by building hands-on, real-world mini applications. These projects cover topics like DOM manipulation, event handling, arrays, functions, and more. Perfect for anyone starting out with JavaScript!
+# React-Mini-Projects
+A collection of beginner-friendly React JS projects developed to explore and practice core React concepts. Each project focuses on essential topics like components, hooks, state management, props, routing, and more. This repository is ideal for anyone looking to strengthen their understanding of React by building simple, functional applications. Start learning React through these practical, hands-on projects!
